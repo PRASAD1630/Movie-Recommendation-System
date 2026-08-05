@@ -276,8 +276,11 @@ This project is licensed under the MIT License.
 
 ---
 
+<<<<<<< HEAD
 Poll SCM Test
 
+=======
+>>>>>>> 0571f1972fd1108e8d6d2b4a8cc63a2d28ede61d
 # 👨‍💻 Author
 
 **Bhukya Prasad**
